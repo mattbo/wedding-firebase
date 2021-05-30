@@ -67,3 +67,6 @@ node_modules/
 
 # MSB: import file for emulator
 rtdb_import.json
+
+# MSB: copy this from wedding-gatsby/public
+public/
